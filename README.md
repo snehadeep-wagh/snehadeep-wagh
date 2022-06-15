@@ -1,15 +1,15 @@
 
 <h1 align="left">
-  Hey there! I'm Snehadeep. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hey there! I'm Snehadeep. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 </h1>
 
-<img alt="Coding" src="https://github.com/snehadeep-wagh/snehadeep-wagh/blob/main/programmer.gif" align="right"/>
+<img alt="Coding" src="https://github.com/snehadeep-wagh/snehadeep-wagh/blob/main/programmer.gif" align="right" width="100" height="100"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m *3rd year Computer Engineering Student* at [*PICT*](https://pict.edu/)
 - 🌱 I'm a Competitive Programmer
-- 🔭 Actively Looking for Internship oppurtinities and Open Source Contributions.
+- 🔭 Actively Looking for Internship opportunities and Open Source Contributions.
 
 
 

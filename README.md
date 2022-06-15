@@ -3,7 +3,7 @@
   Hey there! I'm Snehadeep. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 </h1>
 
-<img alt="Coding" src="https://github.com/snehadeep-wagh/snehadeep-wagh/blob/main/programmer.gif" align="right" width="200" height="200"/>
+<img alt="Coding" src="https://github.com/snehadeep-wagh/snehadeep-wagh/blob/main/programmer.gif" align="right" width="250" height="200"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 

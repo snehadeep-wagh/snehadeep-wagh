@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m *3rd year Computer Engineering Student* at [*PICT*](https://pict.edu/)
+- 🔭 I’m *finsl year Computer Engineering Student* at [*PICT*](https://pict.edu/)
 - 🌱 I'm a Competitive Programmer
 - 🔭 Actively Looking for Internship opportunities and Open Source Contributions.
 
